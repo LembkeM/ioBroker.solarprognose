@@ -21,7 +21,8 @@ Describe your project here
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### 0.0.2 (2023-07-10)
+
+### **WORK IN PROGRESS**
 
 -   (LembkeM) initial release
 
